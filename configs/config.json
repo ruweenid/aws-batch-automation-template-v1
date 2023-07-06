@@ -1,0 +1,10 @@
+{
+    "jobDefinitionName": "FargateJobDefinition",
+    "ecrRepoName": "362392363900.dkr.ecr.eu-west-2.amazonaws.com/aws-batch-test-repo",
+    "executionCommand": [
+      "command-1", 
+      "command-2",
+      "command-3"
+    ]
+  }
+  

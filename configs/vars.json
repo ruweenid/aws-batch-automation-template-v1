@@ -1,0 +1,16 @@
+{
+    "environmentVariables": [
+        {
+          "name": "ENV_VARIABLE_1",
+          "value": "value1"
+        },
+        {
+          "name": "ENV_VARIABLE_2",
+          "value": "value2"
+        },
+        {
+          "name": "SCHEMA_NAME",
+          "value": "value3"
+        }
+      ]
+}

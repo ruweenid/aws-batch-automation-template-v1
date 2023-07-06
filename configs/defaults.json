@@ -1,0 +1,6 @@
+{
+    "executionRoleArn": "arn:aws:iam::362392363900:role/CSM-dev-MS-Common-Task-Role",
+    "vcpu": 1,
+    "memory": 2048,
+    "jobQueue": "aws-batch-test-queue"
+}

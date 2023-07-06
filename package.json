@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-batch": "^3.342.0",
+    "aws-sdk": "^2.1387.0",
+    "fs": "^0.0.1-security"
+  }
+}
